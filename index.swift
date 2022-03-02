@@ -3,8 +3,8 @@ struct fart  {
     var gas: int = 100
     var smell: [int] = []
 
-    init(_name: String) {
-        self.name = name
+    init(_fart: String) {
+        self.fart = name
     }
 }
 
